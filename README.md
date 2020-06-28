@@ -13,13 +13,13 @@ If no player has 3 marks in a row, the game ends in a tie.
 
 """
 ###############################################################
-# Step 1: Create function to make the board
-# Step 2: Create function to allow user to choose X or O
-# Step 3: Create function that allows player1 to choose where
-#         to place marker and places it there
-# Step 4: Create a function that allows player2 to choose where
-#         to place marker and places it there
-# Step 4: Create function that checks if player won
-# Step 6: Create function to check for a tie (full board)
-# Step 5: Write main function to play the game
+### Step 1: Create function to make the board
+### Step 2: Create function to allow user to choose X or O
+### Step 3: Create function that allows player1 to choose where
+###         to place marker and places it there
+### Step 4: Create a function that allows player2 to choose where
+###         to place marker and places it there
+### Step 4: Create function that checks if player won
+### Step 6: Create function to check for a tie (full board)
+### Step 5: Write main function to play the game
 ################################################################
